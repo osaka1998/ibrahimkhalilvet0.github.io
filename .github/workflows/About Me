@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>আমার পরিচয় - ইব্রাহিম খলিল</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali&display=swap" rel="stylesheet" />
+<style>
+body {
+  font-family: 'Noto Sans Bengali', Arial, sans-serif;
+  background: #f0f8ff;
+  margin: 0; padding: 0;
+}
+header {
+  background: #007bff;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+nav {
+  margin-top: 10px;
+}
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+section {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+footer {
+  background: #007bff;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 600px) {
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+}
+</style>
+</head>
+<body>
+<header>
+<h1>ইব্রাহিম খলিল</h1>
+<nav>
+<a href="index.html">হোম</a>
+<a href="about.html">আমার পরিচয়</a>
+<a href="treatment.html">চিকিৎসা তথ্য</a>
+<a href="contact.html">যোগাযোগ</a>
+</nav>
+</header>
+<section>
+<h2>আমার পরিচয়</h2>
+<p>আমি ইব্রাহিম খলিল, একজন ভেটেরিনারি ডাক্তার। আমার কর্মস্থল শরীয়তপুর জেলার সখিপুর থানাধীন ডোমকল ইউনিয়ন। আমি গরু ও ছাগলের রোগ নির্ণয় ও চিকিৎসায় নিয়োজিত।</p>
+<p>বয়স: ২৮ বছর<br>
+ধর্ম: ইসলাম<br>
+রাজনৈতিক পরিচয়: দপ্তর সম্পাদক, বাংলাদেশ গণধিকার পরিষদ, ভেদাগঞ্জ উপজেলা শাখা</p>
+</section>
+<footer>
+<p>© ২০২৫ ইব্রাহিম খলিল</p>
+</footer>
+</body>
+</html>
